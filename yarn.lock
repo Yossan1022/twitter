@@ -123,7 +123,7 @@
     tiny-glob "^0.2.9"
     tslib "^2.4.0"
 
-"@prisma/client@>=2.26.0 || >=3", "@prisma/client@4.16.1":
+"@prisma/client@^4.16.1", "@prisma/client@>=2.26.0 || >=3":
   version "4.16.1"
   resolved "https://registry.npmjs.org/@prisma/client/-/client-4.16.1.tgz"
   integrity sha512-CoDHu7Bt+NuDo40ijoeHP79EHtECsPBTy3yte5Yo3op8TqXt/kV0OT5OrsWewKvQGKFMHhYQ+ePed3zzjYdGAw==
